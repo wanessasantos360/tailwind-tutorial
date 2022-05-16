@@ -5,5 +5,5 @@
 :v: Config iniciais
 :package: Nova funcionalidade
 :up: Atualização
-:beatle: Correção de bug
+:frog: Correção de bug
 :smile: Realease
